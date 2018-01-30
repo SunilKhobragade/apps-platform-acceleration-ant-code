@@ -1,0 +1,8 @@
+rootProject.name = "example-parent"
+
+include ":projects:version"
+include ":projects:console"
+include ":projects:find"
+include ":projects:list"
+include ":projects:size"
+include ":projects:sizewhere"
